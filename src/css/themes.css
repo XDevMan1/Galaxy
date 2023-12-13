@@ -145,3 +145,12 @@ body[data-theme="halloween"] {
   --text-inverse: black;
   --font: "Nosifer";
 }
+
+
+body[data-theme="snow"] {
+  --background: #ffffff;
+  --primary: #aaccff;
+  --text: #000000;
+  --text-inverse: #ffffff;
+  --font: "Roboto";
+}
