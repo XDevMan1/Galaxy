@@ -4,7 +4,6 @@
     {"name": "Suit", "theme": "suit"},
     {"name": "Dante", "theme": "dante"},
     {"name": "Blizzard", "theme": "blizzard"},
-    {"name": "Metallic", "theme": "metallic"},
     {"name": "Swamp", "theme": "swamp"},
     {"name": "Nord", "theme": "nord"},
     {"name": "Connection", "theme": "connection"},
@@ -16,5 +15,5 @@
     {"name": "Pod", "theme": "pod"},
     {"name": "3kh0", "theme": "echo"},
     {"name": "Halloween", "theme": "halloween"},
-    {"name": "Nebelung", "theme": "nebelung"}
+    {"name": "Snow", "theme": "snow"}, // Added Snow theme
 ]
